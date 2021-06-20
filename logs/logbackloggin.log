@@ -1,0 +1,44 @@
+2021-06-20 12:30:57.539  INFO 11801 --- [main] s.i.u.UnderstandpropertiesApplication    : Starting UnderstandpropertiesApplication using Java 11.0.11 on pop-os with PID 11801 (/home/danielmoreira/git/understandproperties/target/classes started by danielmoreira in /home/danielmoreira/git/understandproperties)
+2021-06-20 12:30:57.545  INFO 11801 --- [main] s.i.u.UnderstandpropertiesApplication    : No active profile set, falling back to default profiles: default
+2021-06-20 12:30:58.074  INFO 11801 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2021-06-20 12:30:58.079  INFO 11801 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-20 12:30:58.080  INFO 11801 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-20 12:30:58.112  INFO 11801 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-20 12:30:58.112  INFO 11801 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 540 ms
+2021-06-20 12:30:58.220 DEBUG 11801 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-20 12:30:58.246 DEBUG 11801 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2021-06-20 12:30:58.257 DEBUG 11801 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-20 12:30:58.260 DEBUG 11801 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-20 12:30:58.296  INFO 11801 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2021-06-20 12:30:58.304  INFO 11801 --- [main] s.i.u.UnderstandpropertiesApplication    : Started UnderstandpropertiesApplication in 1.061 seconds (JVM running for 1.729)
+2021-06-20 18:26:27.422  INFO 13820 --- [main] s.i.u.UnderstandpropertiesApplication    : Starting UnderstandpropertiesApplication using Java 11.0.11 on pop-os with PID 13820 (/home/danielmoreira/git/understandproperties/target/classes started by danielmoreira in /home/danielmoreira/git/understandproperties)
+2021-06-20 18:26:27.424  INFO 13820 --- [main] s.i.u.UnderstandpropertiesApplication    : No active profile set, falling back to default profiles: default
+2021-06-20 18:26:27.938  INFO 13820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2021-06-20 18:26:27.944  INFO 13820 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-20 18:26:27.944  INFO 13820 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-20 18:26:27.985  INFO 13820 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-20 18:26:27.985  INFO 13820 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 526 ms
+2021-06-20 18:26:28.086 DEBUG 13820 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-20 18:26:28.112 DEBUG 13820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2021-06-20 18:26:28.123 DEBUG 13820 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-20 18:26:28.126 DEBUG 13820 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-20 18:26:28.156  INFO 13820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2021-06-20 18:26:28.162  INFO 13820 --- [main] s.i.u.UnderstandpropertiesApplication    : Started UnderstandpropertiesApplication in 1.007 seconds (JVM running for 1.604)
+2021-06-20 18:28:01.411  INFO 13985 --- [main] i.u.UnderstandpropertiesApplicationTests : Starting UnderstandpropertiesApplicationTests using Java 11.0.11 on pop-os with PID 13985 (started by danielmoreira in /home/danielmoreira/git/understandproperties)
+2021-06-20 18:28:01.414  INFO 13985 --- [main] i.u.UnderstandpropertiesApplicationTests : No active profile set, falling back to default profiles: default
+2021-06-20 18:28:01.442 DEBUG 13985 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1734f68
+2021-06-20 18:28:02.237 DEBUG 13985 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-20 18:28:02.309 DEBUG 13985 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2021-06-20 18:28:02.349 DEBUG 13985 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-20 18:28:02.358 DEBUG 13985 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-20 18:28:02.427  INFO 13985 --- [main] i.u.UnderstandpropertiesApplicationTests : Started UnderstandpropertiesApplicationTests in 1.218 seconds (JVM running for 1.844)
+2021-06-20 18:28:02.665 DEBUG 13985 --- [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1734f68, started on Sun Jun 20 18:28:01 BRT 2021
+2021-06-20 18:28:31.457  INFO 14085 --- [main] i.u.UnderstandpropertiesApplicationTests : Starting UnderstandpropertiesApplicationTests using Java 11.0.11 on pop-os with PID 14085 (started by danielmoreira in /home/danielmoreira/git/understandproperties)
+2021-06-20 18:28:31.460  INFO 14085 --- [main] i.u.UnderstandpropertiesApplicationTests : No active profile set, falling back to default profiles: default
+2021-06-20 18:28:31.493 DEBUG 14085 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1734f68
+2021-06-20 18:28:32.298 DEBUG 14085 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-06-20 18:28:32.365 DEBUG 14085 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2021-06-20 18:28:32.406 DEBUG 14085 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-06-20 18:28:32.415 DEBUG 14085 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-06-20 18:28:32.483  INFO 14085 --- [main] i.u.UnderstandpropertiesApplicationTests : Started UnderstandpropertiesApplicationTests in 1.241 seconds (JVM running for 1.867)
+2021-06-20 18:28:32.699 DEBUG 14085 --- [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1734f68, started on Sun Jun 20 18:28:31 BRT 2021
